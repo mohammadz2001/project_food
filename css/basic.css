@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: "poppins";
+    src: url(../fonts/poppins/Poppins-ExtraLight.ttf) format(ttf);
+}
+
+body {
+    background: linear-gradient(304.58deg, #F4ECE1 57.1%, #FCFBF7 145.5%);
+    font-family:"poppins" ;
+    overflow-x: hidden;
+}
+.container {
+    width: 1359px;
+    height: 100%;
+    margin-left: 90px;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+
+
+
+
+
